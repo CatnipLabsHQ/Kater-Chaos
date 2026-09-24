@@ -1,0 +1,11 @@
+{
+    "item.katerchaos.copper_coin": "Copper Coin",
+    "item.katerchaos.iron_coin": "Iron Coin",
+    "item.katerchaos.gold_coin": "Gold Coin",
+
+    "block.katerchaos.cookie_block": "Block of Cookie",
+
+    "creativetab.katerchaos.coin_items": "Items",
+    "creativetab.katerchaos.coin_blocks": "Blocks"
+
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "B": {
+            "item": "minecraft:copper_ingot"
+        }
+    },
+    "pattern": [
+        "BBB",
+        "B B",
+        "BBB"
+    ],
+    "result": {
+        "count": 9,
+        "id": "katerchaos:copper_coin"
+    }
+
+}

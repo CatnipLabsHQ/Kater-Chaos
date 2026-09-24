@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "B": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "pattern": [
+        "BBB",
+        "B B",
+        "BBB"
+    ],
+    "result": {
+        "count": 9,
+        "id": "katerchaos:iron_coin"
+    }
+
+}
+
+

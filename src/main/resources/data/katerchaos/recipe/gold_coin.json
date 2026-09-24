@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "B": {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+    "pattern": [
+        "BBB",
+        "B B",
+        "BBB"
+    ],
+    "result": {
+        "count": 9,
+        "id": "katerchaos:gold_coin"
+    }
+
+}
+

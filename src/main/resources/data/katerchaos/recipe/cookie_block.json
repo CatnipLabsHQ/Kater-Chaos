@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "B": {
+            "item": "minecraft:cookie"
+        }
+    },
+    "pattern": [
+        "BBB",
+        "BBB",
+        "BBB"
+    ],
+    "result": {
+        "count": 1,
+        "id": "katerchaos:cookie_block"
+    }
+
+}

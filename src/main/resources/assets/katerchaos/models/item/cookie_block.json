@@ -1,0 +1,6 @@
+{
+    "parent": "katerchaos:block/cookie_block",
+    "textures": {
+        "layer0": "katerchaos:block/cookie_block"
+    }
+}
